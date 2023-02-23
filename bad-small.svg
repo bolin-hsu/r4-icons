@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12.288"
+   height="12.288"
+   viewBox="0 0 12.288 12.288"
+   fill="none"
+   version="1.1"
+   id="svg492"
+   sodipodi:docname="bad-small.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
+  <defs
+     id="defs1003" />
+  <metadata
+     id="metadata496">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1545"
+     inkscape:window-height="904"
+     id="namedview494"
+     showgrid="false"
+     inkscape:zoom="16"
+     inkscape:cx="9.898547"
+     inkscape:cy="-2.1501713"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g398" />
+  <g
+     id="g398">
+    <path
+       style="stroke-width:0.1"
+       id="bad"
+       d="m 0.66026301,0.7408153 v 0 a 2.053,2.053 0 0 1 2.89999999,0 l 2.65,2.649 2.643,-2.649 a 2.054,2.054 0 0 1 2.9,0 v 0 a 2.053,2.053 0 0 1 0,2.9 l -2.652,2.644 2.649,2.649 a 2.054,2.054 0 0 1 0,2.8999997 v 0 a 2.054,2.054 0 0 1 -2.9,0 l -2.646,-2.6519997 -2.644,2.6489997 a 2.054,2.054 0 0 1 -2.89999999,0 v 0 a 2.054,2.054 0 0 1 0,-2.8999997 l 2.64699999,-2.646 -2.64699999,-2.65 a 2.053,2.053 0 0 1 0,-2.894 z"
+       fill="#505158" />
+  </g>
+</svg>
